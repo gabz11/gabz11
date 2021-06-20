@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    margin: auto;
+    padding: auto;
+    background: rgb(255,255,238);
+    background: linear-gradient(0deg, rgba(174, 174, 174,1) 0%, rgba(	217, 214, 212,1) 100%);
+}
+@font-face {
+    font-family: propria;
+    src: url(/fontes/fonte.otf);
+}
+.navegacao
+{   
+    display: block;
+    background-color: rgba(111,78,55,0.3);  
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-family: propria;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: auto;
+    margin-left: -8px;
+}
+.navegacao a
+{
+    text-decoration: none;
+    color:ivory;
+    text-shadow: 3px 3px black;
+}
+.navegacao a:hover
+    {
+    text-decoration: none;
+    color:black;
+    text-shadow: 3px 3px ivory;
+    }
+.navegacao li
+{
+    
+    display: inline;
+    font-size: 30px;
+    padding: 40px;
+}
+.cabecalho
+{
+    font-family: propria;
+    font-weight: bolder;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+.cabecalho2
+{
+    font-family: propria;
+    font-weight: bolder;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+section{
+    width: 90vw;
+    margin: 0 auto;
+    padding: 30px 20px;
+    min-height: calc(100vh - 92px - 32px);
+}
+section h2{ 
+    color: black;  
+    font-family: propria;
+    text-align: center;
+}
+section p{ 
+    color: black;  
+    font-family: propria;
+    text-align: center;
+}
+.projetos
+{
+    font-family: propria;
+    text-align: center;
+}
+.projetos li
+{
+    font-size: 32px;
+    text-align: center;
+    display: inline;
+    padding: 40px;
+}
+.projetos a
+{
+    color:black;
+    text-decoration: none;
+    text-shadow: 3px 3px ivory;
+}
+.projetos a:hover
+{
+    text-decoration: none;
+    color:ivory;
+    text-shadow: 3px 3px black;
+}
+footer
+{
+    margin-top: auto;
+    background-color: rgba(111,78,55,0.15);   
+    font-family: propria;
+    color: ivory;
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: auto;
+    padding: 14px;
+}
+.rodapecor
+{
+    background-color: rgba(111,78,55,0.1);   
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: auto;
+    padding: 13px;
+}
+.rsobre 
+{
+    text-decoration: none;
+    color: ivory;
+}
+.rsobre:hover
+{
+    color: black;
+}
+.swordrun 
+{
+    background: #aeafb0;
+}
+.chippo
+{
+    background: #14274e;
+}
+.logo 
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+z-index: 1;
+}
+.blocot 
+{
+margin: auto;
+width: 50%;
+padding: 50px;
+}
+.imagens
+{
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+}
+.texto
+{
+    font-size: 24px;
+    text-align: center;
+}
+.infotecnica
+{
+    font-family: propria;
+    font-size: 22px;
+    text-align: center;
+}
+.infotecnica2
+{
+    font-family: propria;
+    font-size: 22px;
+    text-align: center;
+    color: ivory;
+}
+.lprojeto
+{   
+    text-decoration: none;
+    color: black;
+    text-shadow: 3px 3px ivory;
+}
+.lprojeto:hover
+{
+    text-decoration: none;
+    color: ivory;
+    text-shadow: 3px 3px black;
+}
+.chlink
+{
+    text-decoration: none;
+    color:ivory;
+    text-shadow: 3px 3px black;
+}
+.chlink:hover
+{
+    text-decoration: none;
+    color:black;
+    text-shadow: 3px 3px ivory;
+}
+.texto2
+{
+    color: ivory;
+    font-size: 22px;
+    text-align: center;
+}
