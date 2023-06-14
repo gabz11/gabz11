@@ -1,6 +1,6 @@
 ### Bem-vindo!/Welcome!
 
-Sou bacharelando no 3° de Ciência da Computação, gosto bastante de data science, aplicações multimedias e de desenvolvimento no geral.
+Sou bacharelando no 3° ano de Ciência da Computação, gosto bastante de data science, aplicações multimedias e de desenvolvimento no geral.
 Atualmente faço iniciação ciêntífica de modelos clássicos e de deep learning de séries temporais para prever valores de ativos como açoes e criptomoedas.
 Aqui postarei meus projetos acadêmicos e pessoais.
 
