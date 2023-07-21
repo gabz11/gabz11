@@ -1,5 +1,6 @@
 # Bem-vindo!/Welcome!
-## *There is no knowledge that is not power.*
+
+*There is no knowledge that is not power.🐉*
 
 Sou bacharelando no 3° ano de Ciência da Computação, gosto bastante de data science, aplicações multimedias e de desenvolvimento no geral.
 Atualmente faço iniciação ciêntífica de modelos clássicos e de deep learning de séries temporais para prever valores de ativos como açoes e criptomoedas.
